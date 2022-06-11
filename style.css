@@ -9,9 +9,8 @@
 body {
     width: 100%;
     height: 100vh;
-    background: url(https://webenezer.com.br/wp-content/uploads/2017/08/fundo-portfolio-mobile-webenezer-1.jpg);
+    background: url(img/CREATIVE.png);
     background-size: cover;
-    background-color: black;
 }
 
 header {
@@ -62,7 +61,7 @@ header .btn-mobile {
 }
 
 
-/*===== Casa Principal =====*/
+/*===== Main Home =====*/
 
 #home .container {
     width: 100%;
